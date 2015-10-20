@@ -1,6 +1,8 @@
 Package.describe({
   summary: "Wrapper around the kexec npm package",
   version: '1.2.0_1',
+  name: 'ghughes:kexec',
+  git: 'https://github.com/meteor/meteor_kexec.git',
   documentation: null
 });
 
