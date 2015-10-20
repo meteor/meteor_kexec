@@ -1,2 +1,1 @@
-# meteor_kexec
-Meteor wrapper for npm `kexec` package
+# Meteor package wrapper for the npm `kexec` package
